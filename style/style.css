@@ -26,7 +26,7 @@ textarea{
 
 .mensaje{
     background: white;
-    background-image: url("/imagenes/Muñeco.png");
+    background-image: url("./imagenes/Muñeco.png");
     background-repeat: no-repeat;
     background-position: center;
     border: none;
